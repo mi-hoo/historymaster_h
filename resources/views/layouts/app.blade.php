@@ -32,7 +32,7 @@
                     <a class="nav-link" href="#">お問い合わせ</a>
                 </li>
             </ul>    
-                    <a href="{{action('Controllers\HomeController@login')}}" role="button" class="btn btn-primary">ログイン</a>
+                    <button class="btn btn-outline-light navbar-btn">ログイン</button>
         </div>
       </nav>
         {{-- ナビゲーションバー ここまで--}}
